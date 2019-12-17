@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HW.iml" filepath="$PROJECT_DIR$/.idea/HW.iml" />
+      <module fileurl="file://$USER_HOME$/Workspace/OSYM/.idea/OSYM.iml" filepath="$USER_HOME$/Workspace/OSYM/.idea/OSYM.iml" />
+      <module fileurl="file://$USER_HOME$/Workspace/KUZGUN/experiments/lxmert/.idea/lxmert.iml" filepath="$USER_HOME$/Workspace/KUZGUN/experiments/lxmert/.idea/lxmert.iml" />
+      <module fileurl="file://$USER_HOME$/Workspace/KUZGUN/experiments/vsepp/.idea/vsepp.iml" filepath="$USER_HOME$/Workspace/KUZGUN/experiments/vsepp/.idea/vsepp.iml" />
+    </modules>
+  </component>
+</project>
